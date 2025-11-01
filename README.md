@@ -22,7 +22,7 @@ Logs IMU + barometer data on a Teensy 4.1
 
 - SCL → pin 19 (A5)
 
-- Power sensors from \*\*3.3 V\*\*, and connect \*\*GND\*\*.  
+- Power sensors from 3.3 V, and connect GND.  
 
 
 
