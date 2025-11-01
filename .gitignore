@@ -1,0 +1,12 @@
+# IDE / build
+.pio/
+.vscode/ipch/
+.DS_Store
+
+# Generated data
+flight.csv
+
+# KiCad autosaves/backups
+*-backups/
+_autosave-*
+*.kicad_prl

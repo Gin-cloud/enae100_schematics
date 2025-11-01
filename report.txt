@@ -1,0 +1,11 @@
+Annotated +3.3V as #PWR01.
+Annotated GND as #PWR02.
+Annotated +3.3V as #PWR03.
+Annotated GND as #PWR04.
+Annotated +3.3V as #PWR05.
+Annotated GND as #PWR06.
+Annotated Conn_01x04 as BMP388_BARO1.
+Annotated Conn_01x04 as LSM9DS1_IMU1.
+Annotated Conn_01x04 as Teensy41_I2C1.
+Annotation complete.
+Annotation complete.
